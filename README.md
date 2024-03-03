@@ -3,8 +3,9 @@ Take full page screenshot from the provided url
 
 ## To run the script:
  1. Save this script to a file
- 2. Make it executable using chmod +x screenshot_script.sh
- 3. Run it with ./screenshot_script.sh
+ 2. Make it executable using `chmod +x screenshot_script.sh`
+ 3. Run it with `./screenshot_script.sh`
+ 4. Note: Make sure chrome browser is installed in your system
 
 ## Input
  1. Enter the folder name where you want to save the screenshot. It will use relative path. By default it will create/use `screenshots` folder
